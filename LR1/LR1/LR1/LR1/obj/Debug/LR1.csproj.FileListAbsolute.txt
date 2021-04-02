@@ -1,0 +1,6 @@
+D:\C#\LR1\LR1\LR1\LR1\bin\Debug\LR1.exe.config
+D:\C#\LR1\LR1\LR1\LR1\bin\Debug\LR1.exe
+D:\C#\LR1\LR1\LR1\LR1\bin\Debug\LR1.pdb
+D:\C#\LR1\LR1\LR1\LR1\obj\Debug\LR1.csprojResolveAssemblyReference.cache
+D:\C#\LR1\LR1\LR1\LR1\obj\Debug\LR1.exe
+D:\C#\LR1\LR1\LR1\LR1\obj\Debug\LR1.pdb
