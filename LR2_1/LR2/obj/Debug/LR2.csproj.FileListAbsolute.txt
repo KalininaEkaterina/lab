@@ -1,0 +1,12 @@
+D:\C#\LR2\LR2\bin\Debug\LR2.exe.config
+D:\C#\LR2\LR2\bin\Debug\LR2.exe
+D:\C#\LR2\LR2\bin\Debug\LR2.pdb
+D:\C#\LR2\LR2\obj\Debug\LR2.csprojResolveAssemblyReference.cache
+D:\C#\LR2\LR2\obj\Debug\LR2.exe
+D:\C#\LR2\LR2\obj\Debug\LR2.pdb
+D:\C#\LR2\1\LR2\bin\Debug\LR2.exe.config
+D:\C#\LR2\1\LR2\obj\Debug\LR2.exe
+D:\C#\LR2\1\LR2\obj\Debug\LR2.pdb
+D:\C#\LR2\1\LR2\bin\Debug\LR2.exe
+D:\C#\LR2\1\LR2\bin\Debug\LR2.pdb
+D:\C#\LR2\1\LR2\obj\Debug\LR2.csprojResolveAssemblyReference.cache
