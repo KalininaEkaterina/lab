@@ -1,0 +1,6 @@
+D:\C#\LR2\3\LR2-3\LR2-3\3\3\bin\Debug\3.exe.config
+D:\C#\LR2\3\LR2-3\LR2-3\3\3\obj\Debug\3.csprojResolveAssemblyReference.cache
+D:\C#\LR2\3\LR2-3\LR2-3\3\3\bin\Debug\3.exe
+D:\C#\LR2\3\LR2-3\LR2-3\3\3\bin\Debug\3.pdb
+D:\C#\LR2\3\LR2-3\LR2-3\3\3\obj\Debug\3.exe
+D:\C#\LR2\3\LR2-3\LR2-3\3\3\obj\Debug\3.pdb
