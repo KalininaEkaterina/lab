@@ -1,0 +1,15 @@
+D:\C#\LR3\LR3\LR3\bin\Debug\LR3.exe.config
+D:\C#\LR3\LR3\LR3\bin\Debug\LR3.exe
+D:\C#\LR3\LR3\LR3\bin\Debug\LR3.pdb
+D:\C#\LR3\LR3\LR3\obj\Debug\LR3.csprojResolveAssemblyReference.cache
+D:\C#\LR3\LR3\LR3\obj\Debug\LR3.exe
+D:\C#\LR3\LR3\LR3\obj\Debug\LR3.pdb
+D:\C#\3\LR3\bin\Debug\LR3.exe.config
+D:\C#\3\LR3\obj\Debug\LR3.exe
+D:\C#\3\LR3\obj\Debug\LR3.pdb
+D:\C#\lr3\LR3\bin\Debug\LR3.exe.config
+D:\C#\lr3\LR3\obj\Debug\LR3.exe
+D:\C#\lr3\LR3\obj\Debug\LR3.pdb
+D:\C#\LR3\LR3\bin\Debug\LR3.exe
+D:\C#\LR3\LR3\bin\Debug\LR3.pdb
+D:\C#\LR3\LR3\obj\Debug\LR3.csprojResolveAssemblyReference.cache
